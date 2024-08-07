@@ -1,0 +1,39 @@
+{
+   "prefix": "//",
+   "ownerIDS": [
+      "900101453824286780"
+   ],
+   "bannermusic": "",
+   "memer_api": "xxxx",
+   "status": {
+      "text": "{membercount} Members in {guildcount} Servers",
+      "text2": "//help | dsc.gg/phv",
+      "type": "WATCHING",
+      "url": "https://www.twitch.tv/phv08"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+                "host": "nodepanel.incolnx.com",
+                "port": 1101,
+                "password": "trazhub",
+                "secure": false
+             }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",    
+      "clientID": "1270421289764655165"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": false
+   }
+}
